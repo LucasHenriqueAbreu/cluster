@@ -1,0 +1,11 @@
+{
+  "name": "clusterexample",
+  "version": "0.0.1",
+  "description": "Switching from cluster module to PM2 & RabbitMQ in Node.js",
+  "main": "cluster-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Henrique de Abreu",
+  "license": "ISC"
+}
